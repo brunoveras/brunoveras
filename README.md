@@ -29,7 +29,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
   <!-- <img align="center" alt="Rafa-Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
   <img align="center" alt="Rafa-Packer" height="30" width="40" src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg">
   <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">

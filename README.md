@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/brunoveras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoveras&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoveras&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoveras&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoveras&layout=compact&langs_count=7&theme=github_dark"/>
  </div>
   
 ## Tecnologias que estou aprendendo
@@ -40,8 +40,8 @@
   Redes | Linux | Git <!-- | Gitlab | Container | Ansible | Jenkins | Zabbix | Grafana /-->
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Rafa-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Bruno-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Bruno-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <!-- <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg"/>
   <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Jenkins" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
@@ -52,12 +52,3 @@
 </div>
 
     
-
-
-
-  
-
-
-    
-    
-  

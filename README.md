@@ -19,9 +19,9 @@
 ## 
 
 <div align="center">
-  <a href="https://github.com/brunoveras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoveras&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoveras&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/italorafaeltavares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italorafaeltavares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&layout=compact&langs_count=7&theme=github_dark"/>
  </div>
   
 ## Tecnologias que estou aprendendo

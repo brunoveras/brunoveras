@@ -25,13 +25,13 @@
  </div>
   
 ## Tecnologias que estou aprendendo
- JavaScript | Html
+ JavaScript | Html | CSS
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
-  <!-- <img align="center" alt="Rafa-Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
-  <img align="center" alt="Rafa-Packer" height="30" width="40" src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+  <!-- <img align="center" alt="Rafa-Packer" height="30" width="40" src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg">
   <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
   <img align="center" alt="Rafa-AZ" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
 </div> \--> 

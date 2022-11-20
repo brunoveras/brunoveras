@@ -2,11 +2,11 @@
 
 > Graduado em redes de computadores. 
 
-> Atualmente trabalho como Técnico em Teleprocessamento e Redes.
+> Atualmente trabalho como Suporte Operacional em Hardware e Software.
 
 > Estudante da Alura realizando as formações em JavaScript e Html. 
 
-> Estudando para se tornar Desenvolvedor.
+> Estudando para se tornar Desenvolvedor e me aprofundando em Ruby.
 
 ## Contatos
 
